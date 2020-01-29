@@ -1,6 +1,8 @@
+![Nuxt Ant Design](https://github.com/heyshadowsmith/nuxt-ant-tailwind/blob/master/nuxt-ant-tailwind.png "Nuxt Ant Design")
+
 # Nuxt Ant Tailwind
 
-> Nuxt Ant Tailwind is an experimental Nuxt project that uses Ant Design components for structure and Tailwindcss for style.
+Nuxt Ant Tailwind is an experimental Nuxt project that uses Ant Design components for structure and Tailwindcss for style.
 
 ## How to overwrite Ant Design Vue component styles
 
