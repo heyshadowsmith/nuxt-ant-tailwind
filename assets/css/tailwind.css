@@ -1,7 +1,11 @@
+/* Add custom Ant Design Vue component styles */
+@import './components/_all.css';
+
+/* [Optional] Add all of Ant Design Vue component default styles */
+/* This is a tool for debugging while Nuxt Ant Tailwind is in development */
+/* @import './ant-design.css'; */
+
 /* Add Tailwind */
 @import 'tailwindcss/base';
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
-
-/* Add Ant Design Vue component styles */
-@import './components/button.css';
