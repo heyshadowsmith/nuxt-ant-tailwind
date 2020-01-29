@@ -1,0 +1,7 @@
+/* Add Tailwind */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* Add Ant Design Vue component styles */
+@import './components/button.css';
