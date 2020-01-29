@@ -22,7 +22,9 @@ In this file you can use Tailwind's `@apply` syntax to overwrite specific Ant De
 ```
 
 
-Once you are finished with that, `@import` your new file into the `tailwind.css` file located in the `assets/css` directory.
+Once you are finished with that, `@import` your new file into the `_all.css` file located in the `assets/css/components` directory.
 ```
-@import './components/button.css';
+@import './general/button.css';
 ```
+
+> As the development of Nuxt Ant Tailwind continues, these instructions will become less and less relevant because all of Ant Design Vue's components will already be `@import`ed into the `_all.css` file located in the `assets/css/components` directory.
